@@ -1,2 +1,1 @@
-this is the first week's c++ homework. 
-istg git will be the death of me someday
+this used to be hw1 but I realised I completely misunderstood the task
